@@ -1,6 +1,6 @@
 # Hand Cricket Game License
 
-Copyright (c) [Year] [Your Name]
+Copyright (c) [2025] [Mukul Napa]
 
 ## Terms of Use:
 1. **Personal Use Only** – You are free to download, install, and play this game for personal enjoyment.  
@@ -13,6 +13,6 @@ Copyright (c) [Year] [Your Name]
 - You may showcase the game in videos or streams, provided proper credit is given.  
 - You may suggest improvements, but any implementation of changes must be approved by the author.  
 
-For any inquiries, contact [Your Email or GitHub Profile].  
+For any inquiries, contact [mukullikesstars@gmail.com].  
 
 By using this software, you agree to these terms.  
